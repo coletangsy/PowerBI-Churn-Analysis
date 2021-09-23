@@ -25,19 +25,23 @@ Power BI Public Link
 **1. Index Page**
 ![Home Page](https://raw.githubusercontent.com/coletangsy/PowerBI-Churn-Analysis/main/example/0001.jpg)
 <br>
+
 **2. Overall Customer Profile**
 ![Home Page](https://raw.githubusercontent.com/coletangsy/PowerBI-Churn-Analysis/main/example/0002.jpg)
 <br>
-**1. Churned Customer Profile**
+
+**3. Churned Customer Profile**
 ![Home Page](https://raw.githubusercontent.com/coletangsy/PowerBI-Churn-Analysis/main/example/0003.jpg)
 <br>
-**1. Churned Report**
+
+**4. Churned Report**
 ![Home Page](https://raw.githubusercontent.com/coletangsy/PowerBI-Churn-Analysis/main/example/0004.jpg)
 <br>
-**1. QnA Page**
+
+**5. QnA Page**
 ![Home Page](https://raw.githubusercontent.com/coletangsy/PowerBI-Churn-Analysis/main/example/0005.jpg)
 <br>
-
+<br>
 ### Article Walk-Through (in Chinese)
 For more information on the machine learning project, you can read the following articles,
 
