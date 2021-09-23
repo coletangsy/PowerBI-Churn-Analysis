@@ -21,6 +21,10 @@ Power BI Public Link
 |   3   | Dashboard Data | DONE      |1 |[Dashboard_data.ipynb](https://github.com/coletangsy/PowerBI-Churn-Prediction/blob/main/Dashboard_data.ipynb) [data_dashboard.xlsx](https://github.com/coletangsy/PowerBI-Churn-Prediction/blob/main/data_dashboard.xlsx)|
 
 <br>
+### Preview
+**1. Index Page**
+![Home Page](https://github.com/coletangsy/PowerBI_Airbnb_HK_market/raw/main/powerbi_pic/0001.jpg)
+<br>
 
 
 ### Article Walk-Through (in Chinese)
