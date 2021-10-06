@@ -23,7 +23,9 @@ Power BI Public Link
 <br>
 ### Preview
 **1. Index Page**
+
 ![Home Page](https://raw.githubusercontent.com/coletangsy/PowerBI-Churn-Analysis/main/example/0001.jpg)
+
 <br>
 
 **2. Overall Customer Profile**
